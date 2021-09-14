@@ -3,15 +3,15 @@
 
 # Objetivo
 
-Ter um log de lucros e despesas, com as informações sendo adicionadas em um banco de dados.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-</div>
+Ter um log de lucros e despesas, com as informações sendo gravadas em um banco de dados.
 
 ## Licença
 
 This project could be used by anyone! MIT License
 
-## Autor
-Vitor Siqueira 
+##
+Feito por Vitor Siqueira 
+<div style="display: inline_block">
+  <img align="center" alt="Vitor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+</div>
+
